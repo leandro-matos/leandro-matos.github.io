@@ -11,9 +11,7 @@ website: https://leandro-matos.github.io/
 # Social links
 # twitter_username: facespics
 github_username:  leandro-matos
-# dribbble_username: jekyll
 facebook_username: leandro.dematos.33
-# flickr_username: jekyll
 #instagram_username: chillwildlife
 linkedin_username: leandro-matos-pereira
 # pinterest_username: jekyll
@@ -59,7 +57,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: https://github.com/leandro-matos/leandro-matos.github.io
 
 sass:
   sass_dir: _sass
