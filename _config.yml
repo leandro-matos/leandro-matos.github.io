@@ -25,9 +25,13 @@ linkedin_username: leandro-matos-pereira
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   I have been fascinated by the world of technology since I was 15 when I bought my first PC. I believe that motivation and focus on learning are the basis for anyone who wants to be an infrastructure professional.
+  
   My career started at Senai, where I took a 02 year technical course in Computer Networks. Firstly, I understand the main concepts of networks, protocols, architectures, operating systems, governance and information security.
+  
   In the course of my career I completed two degrees in Systems Analysis and Development and Information Technology Management, specializing more in the Linux operating system and in the Open Source world, the main OS administration tools and the main technologies that are within the system. with improvement courses and certifications.
+  
   I started to develop skills in programming, I have knowledge in Python, Powershell and Shell Script.
+  
   I am currently improving more and more skills in CI / CD, Observability, Application Monitoring, Infrastructure Monitoring, Configuration Management and Cloud Computing.
 
   <mark>Keep Exploring !!</mark>
