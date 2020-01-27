@@ -18,6 +18,8 @@ linkedin_username: leandro-matos-pereira
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+darkmode: true
+
 # About Section
 # about_title: About Me
 about_profile_image: images/photo.jpg
