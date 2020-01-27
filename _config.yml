@@ -3,21 +3,21 @@ repository: https://github.com/leandro-matos/leandro-matos.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Leandro de Matos Pereira
+title: Operations Analyst - Itaú Unibanco
+email: leandromatpereira@hotmail.com
+website: https://leandro-matos.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  leandro-matos
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: leandro.dematos.33
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+linkedin_username: leandro-matos-pereira
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
