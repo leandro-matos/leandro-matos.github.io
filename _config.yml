@@ -28,12 +28,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   My career started at Senai, where I took a 02 year technical course in Computer Networks. Firstly, I understand the main concepts of networks, protocols, architectures, operating systems, governance and information security.
   
-  
-  In the course of my career, I completed two degrees in Systems Analysis and Development and Information Technology Management, specializing more in the Linux operating system and in the Open Source world, the main OS administration tools and the main technologies that are within the system. with improvement courses and certifications.
-  
+  In the course of my career, I completed two degrees in Systems Analysis and Development and Information Technology Management, specializing more in the Linux operating system and in the Open Source world, the main OS administration tools and the main technologies that are within the system with improvement courses and certifications.
   
   I started to develop skills in programming, I have knowledge in Python, Powershell and Shell Script.
-  
   
   I am currently improving more and more skills in CI/CD, Observability, Application Monitoring, Infrastructure Monitoring, Configuration Management and Cloud Computing.
 
@@ -51,11 +48,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Linux and Devops some of my other interests and hobbies are:
+   - Movies
+   - Philosophy and History
+   - Soccer
 
 # Footer
 footer_show_references: true
