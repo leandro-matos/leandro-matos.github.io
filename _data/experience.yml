@@ -4,19 +4,28 @@
   job_title: Analista de Operações (Automação)
   dates: Setembro 2019 - Atual
   description: | # this will include new lines to allow paragraphs
-     Atuação de maneira preventiva, realizando suporte proativo para melhoria no gerenciamento das plataformas das aplicações.
+     Atuação com foco em automações, realizando suporte proativo para melhoria no gerenciamento das plataformas das aplicações do Contact Center.
      
      Realizo analises preditivas e proponho melhorias na infraestrutura do Contact Center do Itaú, pensando sempre nos itens de Observability e nas automações do ambiente utilizando PowerShell, Python e System Center Orchestrator.
      
      Integrando todas as aplicações e sistemas de missão crítica utilizando as principais soluções de mercado segundo o Gartner, tais como: Splunk, AppDynamics, Riverbed, Prometheus, Grafana, Graylog, entre outros.
 
-
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: PagSeguro
+  link: pagseguro.com.br
+  job_title: Administrador de Sistemas
+  dates: Maio de 2018 – Setembro de 2019
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Atendimento a clientes/parceiros, realizando análise de problemas ocorridos nos servidores de meio de pagamento.--
+    
+    Responsável por garantir o perfeito funcionamento dos servidores de produção/homologação para transações online via Sitef.
+    
+    Forte conhecimento na análise de log de ferramentas JBoss / Apache / IIS
+    
+    Gestão e administração dos processos de implantação no TEF.
+    
+    Responsável pelo ambiente de teste, suporte e administração do servidor de forma a garantir o ambiente ativo e atualizado para realização de testes de homologação.
+    
+    Responder incidentes relacionados ao PagSeguro - Atuação em ambiente de missão critica;
+    
+    Acesso root e administração de todo o parque de servidores Linux e Windows;
