@@ -12,10 +12,12 @@
   qualification: Gestão de Tecnologia da Informação
   quote: >
   description: | # this will include new lines to allow paragraphs
-
+      Capacidade de compreender teorias da computação e utilizar métodos e ferramentas de Tecnologia da Informação e Sistemas de Informação de forma racional, eficiente e eficaz, maximizando os resultados de suas práticas táticas e operacionais cotidianas.
+      
 - layout: left
   name: Senai Suiço Brasileira
   dates: 2011 - 2013
   qualification: Técnico em Redes de Computadores
   quote: >
   description: | # this will include new lines to allow paragraphs
+      Implementar e manter infraestrutura, equipamentos de acesso, sistemas operacionais e serviços de redes, aplicando normas de segurança de rede e padrões técnicos, de acordo com normas de qualidade, de saúde e segurança do trabalho;
