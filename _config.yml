@@ -37,11 +37,11 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experiência Profissional
 
-# Education Section
+# Educação Section
 # educaton_title: Formação
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Formação e conhecimentos
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Linux and Devops some of my other interests and hobbies are:
    - Movies
