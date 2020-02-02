@@ -1,4 +1,17 @@
 - layout: left
+  company: Itaú Unibanco
+  link: itau.com.br
+  job_title: Analista de Operações (Automação)
+  dates: Setembro 2019 - Atual
+  description: | # this will include new lines to allow paragraphs
+     Atuação de maneira preventiva, realizando suporte proativo para melhoria no gerenciamento das plataformas das aplicações.
+     
+     Realizo analises preditivas e proponho melhorias na infraestrutura do Contact Center do Itaú, pensando sempre nos itens de Observability e nas automações do ambiente utilizando PowerShell, Python e System Center Orchestrator.
+     
+     Integrando todas as aplicações e sistemas de missão crítica utilizando as principais soluções de mercado segundo o Gartner, tais como: Splunk, AppDynamics, Riverbed, Prometheus, Grafana, Graylog, entre outros.
+
+
+- layout: left
   company: The Boring Company
   link: boringcompany.com
   job_title: Senior Network System Administrator
