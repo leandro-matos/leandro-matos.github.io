@@ -4,8 +4,8 @@
   qualification: Análise e Desenvolvimento de Sistemas
   quote: >
   description: | # this will include new lines to allow paragraphs
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation,
-    
+       Gerenciar sistemas informatizados nas empresas e cuidra para que esses sistemas sejam seguros e amigáveis para o usuário. Lidar com hardware e software. Definir estratégias de uso dos recursos de informática para garantir o melhor desempenho de cada setor de uma empresa. 
+        
 - layout: left
   name: Universidade Cruzeiro do Sul
   dates: 2016 - 2018
@@ -15,7 +15,7 @@
       Capacidade de compreender teorias da computação e utilizar métodos e ferramentas de Tecnologia da Informação e Sistemas de Informação de forma racional, eficiente e eficaz, maximizando os resultados de suas práticas táticas e operacionais cotidianas.
       
 - layout: left
-  name: Senai Suiço Brasileira
+  name: Senai Suiço-Brasileira
   dates: 2011 - 2013
   qualification: Técnico em Redes de Computadores
   quote: >
