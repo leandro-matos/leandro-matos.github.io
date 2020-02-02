@@ -43,12 +43,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Formação e conhecimentos
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Linux and Devops some of my other interests and hobbies are:
-   - Movies
-   - History
-   - Literature
-   - Philosophy
-   - Soccer
+  Juntamente com meus interesses em Linux e Devops, alguns de meus outros interesses e hobbies são:
+   - Filmes
+   - História/Filofosia/Literatura
+   - Futebol
+   - Música eletrônica
 
 # Footer
 footer_show_references: true
