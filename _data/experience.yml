@@ -6,9 +6,9 @@
   description: | # this will include new lines to allow paragraphs
      Atuação com foco em automações, realizando suporte proativo para melhoria no gerenciamento das plataformas das aplicações do Contact Center.
      
-     Realizo analises preditivas e proponho melhorias na infraestrutura do Contact Center do Itaú, pensando sempre nos itens de Observability e nas automações do ambiente utilizando PowerShell, Python e System Center Orchestrator.
+     Realizo analises preditivas e proponho melhorias na infraestrutura do Contact Center do Itaú, pensando sempre nos itens de Observability e nas automações do ambiente utilizando <mark>PowerShell, Python e System Center Orchestrator.<mark>
      
-     Integrando todas as aplicações e sistemas de missão crítica utilizando as principais soluções de mercado segundo o Gartner, tais como: Splunk, AppDynamics, Riverbed, Prometheus, Grafana, Graylog, entre outros.
+     Integrando todas as aplicações e sistemas de missão crítica utilizando as principais soluções de mercado segundo o Gartner, tais como: <mark>Splunk, AppDynamics, Riverbed, Prometheus, Grafana, Graylog,<mark> entre outros.
 
 - layout: left
   company: PagSeguro
@@ -26,9 +26,7 @@
     
     Responsável pelo ambiente de teste, suporte e administração do servidor de forma a garantir o ambiente ativo e atualizado para realização de testes de homologação.
     
-    Responder incidentes relacionados ao PagSeguro - Atuação em ambiente de missão critica.
-    
-    Acesso root e administração de todo o parque de servidores Linux e Windows.
+    Responder incidentes relacionados ao PagSeguro - Atuação em ambiente de missão critica. Acesso root e administração de todo o parque de servidores Linux e Windows.
     
 
 - layout: left
@@ -45,4 +43,27 @@
        
        Elaboração de manuais técnicos com o intuito de auxiliar e prestar suporte às outras equipes que compõem o ambiente do Carrefour.
     
+
+- layout: left
+  company: Locaweb
+  link: locaweb.com.br
+  job_title: Analista de Suporte Técnico Pleno
+  dates: Outubro 2013 - Agosto 2017
+  description: | # this will include new lines to allow paragraphs
+      Responder chamados de baixa, média e alta complexidade através dos canais de HelpDesk;
+      
+      Configurar E-mail em softwares (Outlook, Apple Mail e dispositivos móveis). Suporte ao Exchange 2010 e Exchange 2013;
+      
+      Configuração/Manuseio Anti-Spam CloudMark e Rspamd;
+      
+      Configuração de DNS (NS, SPF, MX, CNAME, TXT, SOA, A, AAAA, SRV).
     
+      Criação de scripts para envio de e-mail através do servidor Web Linux e Windows utilizando .Net, PHP, entre outros;
+     
+      Instalação de CMS (Wordpress, Joomla, Moodle, Drupal, entre outros);
+      
+      Suporte inicial a problemas relacionados à Banco de dados MySQL, SQL Server e Postgree;
+      
+      Suporte para hospedagem Linux (Debian e CentOS) e Windows( Server 2008 e 2012);
+
+      
