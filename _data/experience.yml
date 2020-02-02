@@ -8,7 +8,7 @@
      
      Realizo analises preditivas e proponho melhorias na infraestrutura do Contact Center do Itaú, pensando sempre nos itens de Observability e nas automações do ambiente utilizando <mark>PowerShell, Python e System Center Orchestrator.<mark>
      
-     Integrando todas as aplicações e sistemas de missão crítica utilizando as principais soluções de mercado segundo o Gartner, tais como: <mark>Splunk, AppDynamics, Riverbed, Prometheus, Grafana, Graylog,<mark> entre outros.
+     Integrando todas as aplicações e sistemas de missão crítica utilizando as principais soluções de mercado segundo o Gartner, tais como: <mark>Splunk, AppDynamics, Riverbed, Prometheus, Grafana, Grayloo<mark>, entre outros.
 
 - layout: left
   company: PagSeguro
@@ -26,7 +26,7 @@
     
     Responsável pelo ambiente de teste, suporte e administração do servidor de forma a garantir o ambiente ativo e atualizado para realização de testes de homologação.
     
-    Responder incidentes relacionados ao PagSeguro - Atuação em ambiente de missão critica. Acesso root e administração de todo o parque de servidores Linux e Windows.
+    <mark>Responder incidentes relacionados ao PagSeguro - Atuação em ambiente de missão critica. Acesso root e administração de todo o parque de servidores Linux e Windows</mark>
     
 
 - layout: left
@@ -39,7 +39,7 @@
        
        Troubleshooting na indisponibilidade de aplicações financeiras do cliente que são sustentadas por servidores Windows Server (2003, 2008 e 2012) e Linux Red Hat 6 e 7.
        
-       Configuração de NFS, DNS, Windows Failover Manager e administração de máquinas virtuais no ambiente VSphere do cliente, composto por máquinas de produção e homologação. Principais ferramentas de monitoração utilizadas: Nimsoft, Dynatrace e Zabbix.
+       Configuração de NFS, DNS, Windows Failover Manager e administração de máquinas virtuais no ambiente VSphere do cliente, composto por máquinas de produção e homologação. Principais ferramentas de monitoração utilizadas: <mark>Nimsoft, Dynatrace e Zabbix</mark>.
        
        Elaboração de manuais técnicos com o intuito de auxiliar e prestar suporte às outras equipes que compõem o ambiente do Carrefour.
     
@@ -64,6 +64,6 @@
       
       Suporte inicial a problemas relacionados à Banco de dados MySQL, SQL Server e Postgree;
       
-      Suporte para hospedagem Linux (Debian e CentOS) e Windows( Server 2008 e 2012);
+      Suporte para hospedagem <mark>Linux (Debian e CentOS) e Windows( Server 2008 e 2012)</mark>;
 
       
