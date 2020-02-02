@@ -6,14 +6,14 @@
   description: | # this will include new lines to allow paragraphs
     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation,
     
-- layout: right
+- layout: left
   name: Universidade Cruzeiro do Sul
   dates: 2016 - 2018
   qualification: Gestão de Tecnologia da Informação
   quote: >
   description: | # this will include new lines to allow paragraphs
 
-- layout: right
+- layout: left
   name: Senai Suiço Brasileira
   dates: 2011 - 2013
   qualification: Técnico em Redes de Computadores
