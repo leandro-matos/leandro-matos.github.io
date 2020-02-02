@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
     
     No decorrer da minha carreira eu conclui duas graduações em Análise e Desenvolvimento de Sistemas e Gestão de Tecnologia da Informação, me especializando mais em sistema operacional Linux e no mundo Open Source, principais ferramentas de administração do SO e principais tecnologias que estão no âmbito do sistema com cursos de aperfeiçoamento e certificações. Começei a desenvolver skills em programação, possuo conhecimentos em Python, Powershell e Shell Script.
     
-    Atualmente estou aprimorando cada vez mais habilidades em CI/CD, Observability, Application Monitoring, Infrastructure Monitoring, Configuration Management e Cloud Computing.
+    Atualmente estou aprimorando cada vez mais habilidades em <mark>CI/CD, Observability, Application Monitoring, Infrastructure Monitoring, Configuration Management e Cloud Computing.<mark>
 
     <mark>Meu lema é #Keep Exploring!!</mark>
 
@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experiência Profissional
 
 # Education Section
-# educaton_title: Education
+# educaton_title: Formação
 
 # More Section
 # more_title: A Little More About Me
