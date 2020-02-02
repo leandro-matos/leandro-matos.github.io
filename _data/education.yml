@@ -1,9 +1,8 @@
-- layout: center
+- layout: left
   name: Centro Universitário Brazcubas
   dates: 2017 - 2019
   qualification: Análise e Desenvolvimento de Sistemas
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation,
     
@@ -15,11 +14,10 @@
     
     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation,
    
-- layout: center
+- layout: right
   name: Universidade Cruzeiro do Sul
   dates: 2016 - 2018
   qualification: Gestão de Tecnologia da Informação
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
 
