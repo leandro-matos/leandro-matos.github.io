@@ -21,20 +21,20 @@ linkedin_username: leandro-matos-pereira
 darkmode: true
 
 # About Section
-# about_title: About Me
+# about_title: Bio
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I have been fascinated by the world of technology since I was 15 when I bought my first PC. I believe that motivation and focus on learning are the basis for anyone who wants to be an infrastructure professional.<br>
-  
-  My career started at Senai, where I took a 02 year technical course in Computer Networks. Firstly, I understand the main concepts of networks, protocols, architectures, operating systems, governance and information security.
-  
-  In the course of my career, I completed two degrees in Systems Analysis and Development and Information Technology Management, specializing more in the Linux operating system and in the Open Source world, the main OS administration tools and the main technologies that are within the system with improvement courses and certifications.
-  
-  I started to develop skills in programming, I have knowledge in Python, Powershell and Shell Script.
-  
-  I am currently improving more and more skills in CI/CD, Observability, Application Monitoring, Infrastructure Monitoring, Configuration Management and Cloud Computing.
+    Sou fascinado pelo mundo da tecnologia desde os meus 15 anos quando comprei o meu primeiro PC. Acredito que a motivação e o foco no aprendizado são a base para quem quer ser um profissional da área de infraestrutura.
+ 
+    Minha carreira começou no Senai, onde fiz um curso técnico de 02 anos de Redes de Computadores. Primeiramente entendo os principais conceitos de redes, protocolos, arquiteturas, sistemas operacionais, governança e segurança da informação.
+    
+    No decorrer da minha carreira eu conclui duas graduações em Análise e Desenvolvimento de Sistemas e Gestão de Tecnologia da Informação, me especializando mais em sistema operacional Linux e no mundo Open Source, principais ferramentas de administração do SO e principais tecnologias que estão no âmbito do sistema com cursos de aperfeiçoamento e certificações.
+    
+    Começei a desenvolver skills em programação, possuo conhecimentos em Python, Powershell e Shell Script.
+    
+    Atualmente estou aprimorando cada vez mais habilidades em CI/CD, Observability, Application Monitoring, Infrastructure Monitoring, Configuration Management e Cloud Computing.
 
-  <mark>Keep Exploring !!</mark>
+    <mark>Meu lema é #Keep Exploring!!</mark>
 
 # Projects Section
 # projects_title: Projects
